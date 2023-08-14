@@ -19,3 +19,7 @@ ul {
 #information-section {
   text-align: center;
 }
+
+#information-section > .wrapper {
+  display: flex;
+}
