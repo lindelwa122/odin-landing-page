@@ -142,6 +142,10 @@ blockquote {
   justify-content: space-between;
 }
 
+.card button {
+  height: 44px;
+}
+
 footer {
   font-size: 12px;
   text-align: center;
