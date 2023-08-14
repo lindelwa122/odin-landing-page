@@ -142,7 +142,7 @@ blockquote {
   border-radius: 10px;
   display: flex;
   justify-content: space-between;
-  padding: 20px;
+  padding: 50px 20px;
 }
 
 .card h3 {
