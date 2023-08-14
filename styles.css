@@ -40,6 +40,7 @@ ul {
 #hero-section {
   align-items: center;
   display: flex;
+  height: 500px;
 }
 
 #hero-section h1 {
