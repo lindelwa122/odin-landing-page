@@ -86,6 +86,8 @@ button {
 }
 
 #information-section {
+  display: flex;
+  flex-direction: column;
   height: 450px;
   text-align: center;
 }
