@@ -52,6 +52,7 @@ ul {
 button {
   background-color: #3882f6;
   border: none;
+  border-radius: 10px;
   color: #f9faf8;
   font-size: 18px;
   font-weight: 700;
