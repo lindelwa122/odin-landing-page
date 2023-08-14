@@ -117,7 +117,7 @@ button {
 }
 
 #quote-section {
-  align-items: flex-end;
+  align-items: center;
   background-color: #e5e7eb;
   display: flex;
   flex-direction: column;
