@@ -10,6 +10,10 @@ body {
 header {
   display: flex;
   justify-content: space-between;
+}
+
+#hero-section,
+header {
   padding: 20px 150px;
 }
 
