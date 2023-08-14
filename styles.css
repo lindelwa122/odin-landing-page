@@ -124,3 +124,7 @@ button {
   height: 250px;
   justify-content: center;
 }
+
+blockquote {
+  font-size: 36px;
+}
