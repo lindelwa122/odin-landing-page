@@ -12,5 +12,6 @@ ul {
 }
 
 #hero-section {
+  align-items: center;
   display: flex;
 }
