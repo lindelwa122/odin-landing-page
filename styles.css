@@ -149,6 +149,7 @@ blockquote {
   border-radius: 10px;
   box-shadow: 2px 3px 10px #000;
   display: flex;
+  flex-basis: 800px;
   justify-content: space-between;
   padding: 50px 20px;
 }
