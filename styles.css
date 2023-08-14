@@ -137,7 +137,10 @@ blockquote {
 }
 
 #newsletter-section {
+  align-items: center;
+  display: flex;
   height: 350px;
+  justify-content: center;
 }
 
 .card {
