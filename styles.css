@@ -13,10 +13,9 @@ header {
   justify-content: space-between;
 }
 
-#hero-section,
-#information-section,
-#quote-section,
-header {
+header,
+footer,
+main > * {
   padding: 20px 150px;
 }
 
@@ -121,7 +120,7 @@ button {
   background-color: #e5e7eb;
   display: flex;
   flex-direction: column;
-  height: 250px;
+  height: 300px;
   justify-content: center;
 }
 
