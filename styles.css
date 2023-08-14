@@ -71,6 +71,7 @@ button {
 #hero-section > .left {
   display: flex;
   flex-direction: column;
+  gap: 10px;
 }
 
 #hero-section h1,
