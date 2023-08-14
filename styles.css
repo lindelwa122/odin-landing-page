@@ -137,6 +137,7 @@ blockquote {
 }
 
 .card {
+  background-color: rgba(65, 105, 225, .5);
   display: flex;
   justify-content: space-between;
 }
