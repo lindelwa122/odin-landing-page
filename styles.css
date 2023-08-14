@@ -12,6 +12,10 @@ header {
   padding: 20px 150px;
 }
 
+.logo {
+  color: #f9faf8;
+}
+
 #hero-section,
 header,
 footer {
