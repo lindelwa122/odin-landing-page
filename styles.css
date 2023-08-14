@@ -93,6 +93,10 @@ button {
   text-align: center;
 }
 
+#information-section h2 {
+  margin-top: 0;
+}
+
 #information-section > .wrapper {
   display: flex;
 }
