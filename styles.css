@@ -15,3 +15,7 @@ ul {
   align-items: center;
   display: flex;
 }
+
+#information-section {
+  text-align: center;
+}
