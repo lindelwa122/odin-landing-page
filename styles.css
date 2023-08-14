@@ -138,6 +138,7 @@ blockquote {
 
 .card {
   display: flex;
+  justify-content: space-between;
 }
 
 footer {
