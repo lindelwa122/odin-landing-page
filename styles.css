@@ -140,6 +140,7 @@ blockquote {
   align-items: center;
   background-color: rgba(65, 105, 225, .5);
   border-radius: 10px;
+  box-shadow: 2px 3px 10px #000;
   display: flex;
   justify-content: space-between;
   padding: 50px 20px;
