@@ -117,6 +117,10 @@ button {
 }
 
 #quote-section {
+  align-items: flex-end;
   background-color: #e5e7eb;
+  display: flex;
+  flex-direction: column;
   height: 250px;
+  justify-content: center;
 }
