@@ -145,6 +145,14 @@ blockquote {
   padding: 20px;
 }
 
+.card h3 {
+  margin-top: 0;
+}
+
+.card p {
+  margin-bottom: 0;
+}
+
 .card button {
   height: 44px;
 }
