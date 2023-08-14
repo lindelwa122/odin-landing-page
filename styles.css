@@ -51,6 +51,7 @@ ul {
 
 button {
   background-color: #3882f6;
+  border: none;
 }
 
 #hero-section .img-placeholder {
