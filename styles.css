@@ -125,6 +125,10 @@ button {
   justify-content: center;
 }
 
+#quote-section > * {
+  max-width: 800px;
+}
+
 blockquote {
   color: #1f2937;
   font-size: 36px;
