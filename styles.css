@@ -68,6 +68,11 @@ button {
   width: 500px;
 }
 
+#hero-section h1,
+#hero-section p {
+  margin: 0;
+}
+
 #information-section {
   text-align: center;
 }
