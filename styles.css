@@ -42,6 +42,7 @@ ul {
   align-items: center;
   display: flex;
   height: 500px;
+  justify-content: space-between;
 }
 
 #hero-section h1 {
