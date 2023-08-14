@@ -49,6 +49,10 @@ ul {
   font-weight: 900;
 }
 
+button {
+  background-color: #3882f6;
+}
+
 #hero-section .img-placeholder {
   align-items: center;
   background-color: #a0a0a0;
