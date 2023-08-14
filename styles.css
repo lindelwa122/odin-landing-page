@@ -38,6 +38,15 @@ ul {
   display: flex;
 }
 
+#hero-section .img-placeholder {
+  align-items: center;
+  background-color: #a0a0a0;
+  display: flex;
+  height: 250px;
+  justify-content: center;
+  width: 500px;
+}
+
 #information-section {
   text-align: center;
 }
