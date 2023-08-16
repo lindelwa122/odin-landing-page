@@ -66,6 +66,7 @@ button {
   font-size: 18px;
   font-weight: 700;
   padding: 10px; 
+  transition: transform .3s;
   width: 150px;
 }
 
