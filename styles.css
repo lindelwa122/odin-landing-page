@@ -99,6 +99,10 @@ button:hover {
   cursor: pointer;
 }
 
+.img-wrapper img:hover {
+  transform: scale(1.5);
+}
+
 #hero-section > .left {
   display: flex;
   flex-direction: column;
