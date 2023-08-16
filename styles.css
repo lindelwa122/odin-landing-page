@@ -95,6 +95,10 @@ button:hover {
   overflow: hidden;
 }
 
+.img-wrapper img {
+  cursor: pointer;
+}
+
 #hero-section > .left {
   display: flex;
   flex-direction: column;
