@@ -85,6 +85,10 @@ button {
   width: 100%;
 }
 
+.img-wrapper {
+  overflow: hidden;
+}
+
 #hero-section > .left {
   display: flex;
   flex-direction: column;
