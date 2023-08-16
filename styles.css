@@ -78,7 +78,8 @@ button {
   width: 500px;
 }
 
-.img-placeholder img {
+.img-placeholder img,
+.img-wrapper img {
   height: 100%;
   object-fit: cover;
   width: 100%;
