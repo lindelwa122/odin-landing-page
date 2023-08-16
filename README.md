@@ -7,17 +7,22 @@ Cut, cut 😄 😄, the restaurant is not real, but if you are interested in any
 For a live preview, click [here](https://lindelwa122.github.io/odin-landing-page).
 
 ## Credits
-- The [project](https://www.theodinproject.com/lessons/foundations-landing-page) is part of [The Odin Project](https://www.theodinproject.com/) curriculum.
+- This [project](https://www.theodinproject.com/lessons/foundations-landing-page) is part of [The Odin Project](https://www.theodinproject.com/) curriculum.
+
 - Image created by [Bing Image Creator](https://www.bing.com/images/create?form=FLPGEN).
-![our old peanut butter cookies restaurant in 1828](assets/images/restaurant-image.jpeg)
-- Image taken from [Unsplash](https://unsplash.com), artist is [Casey Chae](https://unsplash.com/@chaseycasey)
-![brown cookies on a white ceramic plate](assets/images/cookie-001.jpg)
-- Image taken from [Unsplash](https://unsplash.com), artist is [Jeniffer Pallian](https://unsplash.com/@foodess)
-![close-up photo of baked cookies](assets/images/cookie-002.jpg)
-- Image taken from [Unsplash](https://unsplash.com), artist is [Mae Mu](https://unsplash.com/@picoftasty)
-![pile of cookies](assets/images/cookie-003.jpg)
-- Image created by [Bing Image Creator](https://www.bing.com/images/create?form=FLPGEN)
-![brown cookies on a white ceramic plate](assets/images/cookie-004.jpeg)
+<img height="300px" src="assets/images/restaurant-image.jpeg" alt="our old peanut butter cookies restaurant in 1828">
+
+- Image taken from [Unsplash](https://unsplash.com), artist is [Casey Chae](https://unsplash.com/@chaseycasey).
+<img height="300px" src="assets/images/cookie-001.jpg" alt="brown cookies on a white ceramic plate">
+
+- Image taken from [Unsplash](https://unsplash.com), artist is [Jeniffer Pallian](https://unsplash.com/@foodess).
+<img height="300px" src="assets/images/cookie-002.jpg" alt="close-up photo of baked cookies">
+
+- Image taken from [Unsplash](https://unsplash.com), artist is [Mae Mu](https://unsplash.com/@picoftasty).
+<img height="300px" src="assets/images/cookie-003.jpg" alt="pile of cookies">
+
+- Image created by [Bing Image Creator](https://www.bing.com/images/create?form=FLPGEN).
+<img height="300px" src="assets/images/cookie-004.jpeg" alt="brown cookies on a white ceramic plate">
 
 ## The Recipe
 To those who feel adventurous, here's a quick [peanut butter recipe](https://preppykitchen.com/peanut-butter-cookies-recipe/) for you.
