@@ -1,7 +1,7 @@
 # Peanut Butter Cookies Landing Page
 PeanutButter Cookies is a restaurant that takes you on a delectable journey through time and taste. With a chocolatey legacy deeply rooted in our heritage, we've created a haven where culture meets confection. Every cookie is a bite of history, blending the warmth of tradition with the sweetness of pure indulgence.
 
-Cut, cut 😄 😄, the restaurant is not real, but if you are interested in any peanut butter cookies recipes, scroll to the bottom.
+Cut, cut 😄 😄, the restaurant is not real, but if you are interested in any peanut butter cookies recipes, [scroll to the bottom](https://github.com/lindelwa122/odin-landing-page#the-recipe).
 
 ## Live Preview
 For a live preview, click [here](https://lindelwa122.github.io/odin-landing-page).
