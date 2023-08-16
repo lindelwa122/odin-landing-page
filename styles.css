@@ -97,6 +97,7 @@ button:hover {
 
 .img-wrapper img {
   cursor: pointer;
+  transition: transform 1s;
 }
 
 .img-wrapper img:hover {
